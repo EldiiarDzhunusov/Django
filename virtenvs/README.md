@@ -11,9 +11,9 @@ virtualenv django_3.0.7
 
 Virtual Environments can be activated by the following command
 
-**1) Open Terminal in this Folder
+**1) Open Terminal in this Folder**
 
-**2) command: source FOLDER_NAME/bin/activate
+**2) command: source FOLDER_NAME/bin/activate**
 
 
 
