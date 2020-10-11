@@ -1,7 +1,5 @@
 
-## This project is an weather app.
-## It shows the list of the cities with their weather.
-## Cities may be added with the add button
+## This project is a weather app. It shows the list of the cities with their weather. Cities may be added with the add button
 
 
 
