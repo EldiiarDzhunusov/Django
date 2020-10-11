@@ -1,28 +1,28 @@
 ## Virtual Environments
-Virtual Environments are created with the following command
+**Virtual Environments are created with the following command**
 
 virtualenv VIRT_NAME
 
-Example:
+**Example:**
 ```
 virtualenv django_3.0.7
 ```
 
 
-Virtual Environments can be activated by the following command
+**Virtual Environments can be activated by the following command**
 
-**1) Open Terminal in this Folder**
+1) Open Terminal in this Folder**
 
-**2) command: source FOLDER_NAME/bin/activate**
+2) command: source FOLDER_NAME/bin/activate**
 
 
 
-Example:
+**Example:**
 ```
 source django_3.0.7/bin/activate
 ```
 
-Virtual Environments can be deactivated by the following command
+**Virtual Environments can be deactivated by the following command**
 ```
 Deactivate
 ```
