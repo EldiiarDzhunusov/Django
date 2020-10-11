@@ -8,6 +8,6 @@ https://www.youtube.com/watch?v=6K83dgjkQNw
 pip3 install Django==3.0.7
 ```
 
-![](img/pic1.png)
-![](img/pic2.png)
-![](img/pic3.png)
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
